@@ -1,4 +1,6 @@
-# [React Color](http://casesandberg.github.io/react-color/)
+# [React Colors](http://casesandberg.github.io/react-color/)
+
+This is a fork of the original `casesandberg/react-color` which we try to maintain because the old repo is dead.
 
 [![Npm Version][npm-version-image]][npm-version-url]
 [![Build Status][travis-svg]][travis-url]
